@@ -16,7 +16,7 @@ The project utilizes HTML, CSS, and Python to:
 
 
 # Technical Details
-**Frontend:** Utilize HTML, CSS, and JavaScript to create the user interface.
+**Frontend:** Utilize HTML, CSS to create the user interface.
 
 **Backend:** Employ Python with Flask as the web framework.
 
