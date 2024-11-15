@@ -1,10 +1,22 @@
 [
     {
+        "nome": "matsolo",
+        "senha": "123"
+    },
+    {
         "nome": "bruno",
         "senha": "123"
     },
     {
         "nome": "mariana",
         "senha": "789"
+    },
+    {
+        "nome": "mathildes",
+        "senha": "884"
+    },
+    {
+        "nome": "matola",
+        "senha": "323"
     }
 ]
